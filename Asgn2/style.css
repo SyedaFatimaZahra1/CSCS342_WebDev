@@ -1,0 +1,29 @@
+body {
+   background-color: white;
+}
+
+.meme {
+    background-color: black;
+    width: 780px;
+    height: 425px;
+    margin: 5px auto;
+    text-align: center;
+    padding-top: 43px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+   width: 395px;
+   border: 3px solid white;
+}
+
+h1 {
+   color: white;
+   font-size: 28px;
+   margin: 15px 0;
+}
+
+p {
+   color: white;
+   font-size: 16px;
+}
